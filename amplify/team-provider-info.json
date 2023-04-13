@@ -23,6 +23,11 @@
       "StackName": "amplify-pet-phil-160845",
       "StackId": "arn:aws:cloudformation:us-east-1:620339869704:stack/amplify-pet-phil-160845/ff54f380-da36-11ed-8e42-128e0412499f",
       "AmplifyAppId": "d3j6iabssd50tl"
+    },
+    "categories": {
+      "auth": {
+        "petcd6defa2": {}
+      }
     }
   }
 }
