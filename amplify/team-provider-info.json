@@ -27,6 +27,9 @@
     "categories": {
       "auth": {
         "petcd6defa2": {}
+      },
+      "storage": {
+        "pybucket": {}
       }
     }
   }
